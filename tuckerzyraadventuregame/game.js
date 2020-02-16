@@ -8,14 +8,14 @@ The story of your choose your own adventure game can be of your choosing
 //alert
 //confirm
 //prompt
-/*
+
 alert('Welcome to Tucker and Zyra adventure game')
 alert('Not just any normal day, but a weird day')
 alert('Will you be able to make it home safetly on your normal walk?')
 alert('Will you able to resist the delicious food they left in the counter')
 alert('Will you be able to resist from chasing small critters?')
 alert('Will you able to resist not being distructive when they leave the house?')
-*/
+
 var gameOver = false
 var score = 0;
 var name = prompt('Before we go on adventure, tell me your name?')
